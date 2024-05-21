@@ -1,6 +1,3 @@
-README pour le Projet GitHub de Faridi Houmadi
-Mon Projet de Télécommunications et Réseaux
-
 Bienvenue sur le dépôt GitHub de mon projet ! Ce projet est destiné à partager mon travail et mes recherches dans le domaine des télécommunications et des réseaux. Vous y trouverez des scripts, des configurations, des documentations et des exemples de projets sur lesquels j'ai travaillé.
 
 À Propos de Moi
