@@ -1,31 +1,20 @@
-Bienvenue sur le dépôt GitHub de mon projet ! Ce projet est destiné à partager mon travail et mes recherches dans le domaine des télécommunications et des réseaux. Vous y trouverez des scripts, des configurations, des documentations et des exemples de projets sur lesquels j'ai travaillé.
+<h1 align="center">Bonjour 👋, je m'appelle FARIDI HOUMADI</h1>
+<h3 align="center">Un développeur frontend passionné originaire d'Inde</h3>
 
-À Propos de Moi
+<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faridihoumadi" alt="faridihoumadi" / ></a> </p>
 
-Nom : Faridi Houmadi
-Email : houmadifaridi100@gmail.com
-LinkedIn : Faridi Houmadi
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/faridi houmadi " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="faridi houmadi" height="30" width="40" /></a>
+<a href="https://instagram.com/faridi_houmadi_2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faridi_houmadi_2307" height=" 30" width="40" /></a>
+</p>
 
-Je suis actuellement étudiant en Master de Réseau et Sécurité Informatique, avec une solide formation en télécommunications et diverses expériences pratiques en électronique et réseaux.
+<h3 align="left">Langues et outils :</h3>
+<p align="left"> <a href="https:// www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40 " height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https:/ /www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-Compétences Techniques
+<p><img align="left" src="https://github-readme-stats.vercel. app/api/top-langs?username=faridihoumadi&show_icons=true&locale=en&layout=compact" alt="faridihoumadi" /></p>
 
-Systèmes d’exploitation : Linux
-Logiciels : FL Studio, Cubase, Filmora, Catia V5, SketchUp, Proteus
-Télécommunications : Fibre optique (soudure, mesures), maintenance informatique (hardware et software), réseaux informatiques, installation et configuration de serveurs Windows
-Projets et Contributions
+<p> <img align="center" src="https://github- readme-stats.vercel.app/api?username=faridihoumadi&show_icons=true&locale=en" alt="faridihoumadi" /></p>
 
-Projet 1 : Système de Sécurité Réseau
-Description : Développement d'un système de sécurité pour la protection des réseaux internes de l'entreprise.
-Technologies : Linux, IPTables, Snort
-Réalisations : Mise en place d’un pare-feu, configuration d’un système de détection d’intrusion
+<p><img align="center" src="https ://github-readme-streak-stats.herokuapp.com/?user=faridihoumadi&" alt="faridihoumadi" /></p>
 
-Projet 2 : Configuration de Serveur Windows
-Description : Installation et configuration de Windows Server 2012 pour une entreprise.
-Technologies : Windows Server 2012, Active Directory, DHCP, DNS
-Réalisations : Configuration des rôles serveurs, gestion des utilisateurs et des permissions
-
-Projet 3 : Maintenance Informatique
-Description : Maintenance de systèmes informatiques comprenant le matériel et les logiciels.
-Technologies : Divers outils de diagnostic et de réparation
-Réalisations : Réparation de matériel, installation et mise à jour de logiciels, optimisation des performances des systèmes
