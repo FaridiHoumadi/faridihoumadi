@@ -1,4 +1,3 @@
-
 ## **🌐 Socials**
 Connectez-vous avec moi sur les réseaux sociaux :  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faridi_houmadi_2307)  
