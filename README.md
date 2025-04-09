@@ -1,9 +1,3 @@
----
-
-# **Faridi Houmadi**  
-> Passionné par la technologie et les solutions innovantes, je mets mes compétences au service de projets ambitieux.
-
----
 
 ## **🌐 Socials**
 Connectez-vous avec moi sur les réseaux sociaux :  
