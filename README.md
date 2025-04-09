@@ -49,7 +49,8 @@ Voici quelques-uns de mes projets notables :
 
 ## **📧 Contact**
 Vous souhaitez collaborer ou discuter de projets ? N'hésitez pas à me contacter :  
-- Email : [faridi.houmadi@example.com](mailto:faridi.houmadi@example.com)  
-- LinkedIn : [faridi-houmadi](https://www.linkedin.com/in/faridi-houmadi/)  
+- Email : [houmadifaridi100@gmail.com](houmadifaridi100@gmail.com)  
+- LinkedIn : [faridi-houmadi]([https://www.linkedin.com/in/faridi-houmadi/](https://www.linkedin.com/feed/))  
 
 ---
+
